@@ -4,7 +4,7 @@ A E Payment UI with Flutter.
 
 ## Getting Started
 
-Splash Screen
+###Splash Screen
 
 ![Splash ](https://user-images.githubusercontent.com/33503826/157373806-b1f72db5-701a-4ad9-ad45-1a48001ee65d.png)
 
