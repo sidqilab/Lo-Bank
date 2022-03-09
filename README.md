@@ -1,16 +1,10 @@
 # lobank
 
-A new Flutter project.
+A E Payment UI with Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Splash ](https://user-images.githubusercontent.com/33503826/157373806-b1f72db5-701a-4ad9-ad45-1a48001ee65d.png)
+![Get started](https://user-images.githubusercontent.com/33503826/157373814-d923f5ec-9fb8-4041-a95e-480b678927cb.png)
+![Home Screen](https://user-images.githubusercontent.com/33503826/157373829-e9f3a771-00c1-4bb4-b492-e122c1b8b593.png)
+![option](https://user-images.githubusercontent.com/33503826/157373839-a469010e-485e-44f7-9e1f-32d6fd2b4dec.png)
