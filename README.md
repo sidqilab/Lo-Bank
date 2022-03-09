@@ -1,6 +1,6 @@
 # lobank
 
-A E Payment UI with Flutter.
+A E-Payment UI with Flutter.
 
 ## Getting Started
 
